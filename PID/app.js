@@ -1,3 +1,4 @@
+// notice: do not use the keys for any other projects
 // pillow's supabase keys
 const supabaseUrl = "https://cjiqkmcobejlgjkttnbd.supabase.co";
 const supabaseKey = "sb_publishable_h6v9FiL6VyI_-EZGrWV6LQ_Ee7w_PCj";
