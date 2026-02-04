@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>upload app</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+</head>
+<body>
+<div class="sidebar">
+  <a href="index.html">browse</a>
+  <a href="upload.html">upload</a>
+</div>
+<div class="content">
+  <button onclick="login()">login with GitHub</button>
+  <h2>upload app</h2>
+  <input id="name" placeholder="name"><br>
+  <input id="version" placeholder="version"><br>
+  <textarea id="desc" placeholder="description"></textarea><br>
+  <input type="file" id="file"><br>
+  <button onclick="uploadApp()">upload</button>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,5 @@
+[
+  { "name": "flappy-bird", "version": "1.0", "description": "fun bird game", "download_url": "downloads/flappy-bird.zip" },
+  { "name": "puzzle-box", "version": "2.1", "description": "mind puzzles", "download_url": "downloads/puzzle-box.zip" }
+]
+
